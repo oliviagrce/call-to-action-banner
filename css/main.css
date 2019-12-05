@@ -1,7 +1,8 @@
 html {
   box-sizing: border-box;
   line-height: 1.5;
-  font-family: Roboto, "Roboto Condensed", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+  font-family: Roboto, sans-serif;
 }
 
 *, *::before, ::after {
