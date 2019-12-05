@@ -1,14 +1,12 @@
 html {
   box-sizing: border-box;
   line-height: 1.5;
-  font-family: Roboto, "Roboto Condessed", sans-serif;
+  font-family: Roboto, sans-serif;
 }
 
 *, *::before, ::after {
   box-sizing: inherit;
 }
-
-/ ......... body .......... */
 
 body {
   margin: 0;
